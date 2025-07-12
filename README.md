@@ -11,7 +11,7 @@ This toggle behavior provides a clean interaction using limited hardware!
 
 ## 📷 Circuit Preview
 
-![Circuit Image](images/circuit-diagram.png)
+![Circuit Image](images/Toggle 6 LED and 3 Push Buttons System Using Arduino.png)
 
 > *(Replace the above path with your own image path in the repo if needed)*
 
